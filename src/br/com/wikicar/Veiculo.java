@@ -6,8 +6,8 @@ public class Veiculo {
     protected String modelo;
     protected double anoLancamento;
     protected double anoEncerramento;
-    protected double vendasNacionais;
-    protected double vendasInternacionais;
+    protected int vendasNacionais;
+    protected int vendasInternacionais;
     protected double kmRodado;
     protected double precoAtual;
     protected double precoLancamento;
@@ -40,13 +40,13 @@ public class Veiculo {
 	public double getVendasNacionais() {
 		return vendasNacionais;
 	}
-	public void setVendasNacionais(double vendasNacionais) {
+	public void setVendasNacionais(int vendasNacionais) {
 		this.vendasNacionais = vendasNacionais;
 	}
 	public double getVendasInternacionais() {
 		return vendasInternacionais;
 	}
-	public void setVendasInternacionais(double vendasInternacionais) {
+	public void setVendasInternacionais(int vendasInternacionais) {
 		this.vendasInternacionais = vendasInternacionais;
 	}
 	public double getKmRodado() {

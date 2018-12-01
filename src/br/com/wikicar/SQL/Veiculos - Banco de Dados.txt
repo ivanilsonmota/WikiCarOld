@@ -1,0 +1,33 @@
+PROJETO POO P2
+		
+NOME DO PROJETO: OS 20 CARROS QUE MARCARAM OS ULTIMOS 20 ANOS
+						
+LINK DA MATERIA DO PROJETO: https://motorshow.com.br/20-carros-que-marcaram-os-ultimos-20-anos/
+
+
+1.ANO LANÇAMENTO;   	2.MARCA;			3.MODELO;		4.VENDAS INTERNACIONAIS;		5.VENDAS NACIONAIS;		6.KM;		7.PREÇO ATUAL; 		8.PREÇO LANÇAMENTO;		9.ANO ENCERRAMENTO;
+
+.1994;			.CHEVROLET			.CORSA			.//					.2 MILHÕES
+.1995;			.BMW				.X5			.1,3 MILHÕES				.//
+.1996;			.BMW				.Z3			.220 MIL				.//
+.1997;			.FIAT				.UNO			.//					.3,7 MILHÕES
+.1998;			.FIAT 				.STRADA			.//					.1 MILHÃO
+.1999;			.CHEVROLET			.S10			.//					.540 MILmet
+.2000;			.FORD				.KA			.//					.900 MIL
+.2001;			.FORD				.ECO SPORT		.//					.700 MIL
+.2002;			.RENAULT			.SCÉNIC			.//					.142 MIL
+.2003;			.HYUNDAI 			.TUCSON			.//					.143 MIL
+.2004;			.MERCEDES			.CLASSE A		.//					.63 MIL
+.2005;			.MERCEDES 			.SLS			.1 MIL 					.//
+.2006;			.MITSUBISHI			.ECLIPSE		.900 MIL;				.//
+.2007;			.MINI 				.COOPER			.2,4 MILHÕES 				.//
+.2008;			.CHEVROLET			.VECTRA			.//					.313 MIL
+.2009;			.DODGE				.RAM			.6,4 MILHÕES 				.//
+.2010;			.PORSCHE			.CAYENNE		.580 MIL				.//
+.2011;			.HONDA 				.FIT			.//					.500 MIL
+.2012;			.VOLKSWAGEN			.NEW BEETLE		.1,1 MILHÃO				.//
+.2013;			.SMART				.FORTWO			.1,5 MILHÃO 				.//
+
+
+
+						 
